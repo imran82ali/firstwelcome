@@ -30,7 +30,7 @@ use firstwelcome::hello;
 fn main() {
     println!("Hello, world!");
     hello();
-}
+    }
 
 
 now cargo run for results
