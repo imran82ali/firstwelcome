@@ -1,5 +1,5 @@
 mod lib;
 fn main(){
-    println!("First library");
+    println!("First library ");
     lib::hello();
 }
