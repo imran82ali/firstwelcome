@@ -7,6 +7,6 @@ repository = "https://github.com/imran82ali/firstwelcome"
 homepage = "https://github.com/imran82ali/firstwelcome"
 license = "MIT/Apache-2.0"
 readme = "README.md"
-description = "First Welcome Library"
+description = "First Welcome Library "
 
 [dependencies]
