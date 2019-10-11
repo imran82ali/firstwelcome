@@ -3,9 +3,9 @@ this is a demo rust library published on crates.io
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-firstwelcome = "0.1.0" 
+`firstwelcome = "0.1.0"`
 
-you cargo.toml file should look like this now:
+your cargo.toml file should look like this:
 ```
 [package]
 name = "hello_world"
